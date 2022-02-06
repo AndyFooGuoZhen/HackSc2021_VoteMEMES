@@ -2,6 +2,10 @@
 
 This react app was built for the [Hacksc 2022](https://www.hacksc.com/) hackathon for the Entertainment track
 
+# Try it Out
+
+https://vote-memes.vercel.app/
+
 ## Why
 
 To answer the most important question of all, what's the best programming meme?
